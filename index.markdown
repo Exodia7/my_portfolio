@@ -5,4 +5,4 @@
 layout: resume
 ---
 
-Mr Incognito is a very serious and working being and would love to work at your company.
+I is a very serious and working being and would love to work at your company.
